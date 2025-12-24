@@ -1,6 +1,6 @@
 # Photoshop MCP Server
 
-A powerful Express.js server that enables programmatic control of Adobe Photoshop through the Model Context Protocol (MCP). This server acts as a bridge between HTTP requests and Photoshop's ExtendScript engine, allowing you to automate Photoshop tasks via simple API calls.
+A powerful Express.js server that enables programmatic control of Adobe Photoshop through the Model Context Protocol (MCP). This server acts as a bridge between HTTP requests and Photoshop's ExtendScript engine, allowing you to automate Photoshop tasks via simple API calls easily on your device.
 
 ---
 
@@ -1040,6 +1040,3 @@ For issues and questions:
 
 **Happy Automating!** 🎨
 
-#   p h o t o s h o p - m c p - s e r v e r 
- 
- 
