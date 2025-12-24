@@ -1040,5 +1040,6 @@ For issues and questions:
 
 **Happy Automating!** 🎨
 
-#   p h o t o s h o p - m c p - s e r v e r  
+#   p h o t o s h o p - m c p - s e r v e r 
+ 
  
